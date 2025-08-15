@@ -1,1 +1,3 @@
-# Medical_analyzer
+# Install Smalot\PdfParser\Parser
+#Get a Api key from Gemini
+#Install ocr-Tesseract
